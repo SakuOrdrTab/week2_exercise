@@ -11,7 +11,7 @@ then in project root:
 >.venv\scripts\activate
 >pip install -r requirements.txt
 
-run:
+2. run:
 >uvicorn app:app
 
 Then you have the server at your disposal. Sen translation tasks english to finnish to localhost:8000/translate, for example:
