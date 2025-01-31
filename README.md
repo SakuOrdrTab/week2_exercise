@@ -1,8 +1,8 @@
-## Week 2 ewxercise for TUNI finetuning course
+# Week 2 ewxercise for TUNI finetuning course
 
 This is a FastAPI translator.
 
-# Install
+## Install
 
 1. clone
 
@@ -24,5 +24,5 @@ Then you have the server at your disposal. Sen translation tasks english to finn
 
 The repo includes some REST vscode extension API calls to try out in /tests/
 
-# IMPORTANT NOTE:
+## IMPORTANT NOTE:
 You must set your Groq api key as an environment variable.
