@@ -1,0 +1,7 @@
+### Test with a longer sentence
+POST http://127.0.0.1:8000/translate/
+Content-Type: application/json
+
+{
+  "text": "Can you translate numbers too? 123,456 and symbols like $ and %?"
+}

@@ -1,0 +1,6 @@
+POST http://127.0.0.1:8000/translate/
+Content-Type: application/json
+
+{
+  "text": "Hello, I am testing this API!"
+}

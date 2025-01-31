@@ -1,0 +1,7 @@
+### Test with a longer sentence
+POST http://127.0.0.1:8000/translate/
+Content-Type: application/json
+
+{
+  "text": "The quick brown fox jumps over the lazy dog. This is a common sentence used to test fonts and typing!"
+}
