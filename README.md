@@ -6,10 +6,10 @@ This is a FastAPI translator.
 
 1. clone
 
-then in project root:
->python -m venv .venv
->.venv\scripts\activate
->pip install -r requirements.txt
+then in project root:<br>
+>python -m venv .venv<br>
+>.venv\scripts\activate<br>
+>pip install -r requirements.txt<br>
 
 2. run:
 >uvicorn app:app
