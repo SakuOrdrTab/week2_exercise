@@ -1,4 +1,4 @@
-# Week 2 ewxercise for TUNI finetuning course
+# Week 2 exercise for TUNI finetuning course
 
 This is a FastAPI translator.
 
